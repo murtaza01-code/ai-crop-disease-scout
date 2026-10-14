@@ -1,0 +1,6 @@
+{
+  "name": "AI Crop Disease Scout",
+  "description": "AI-powered crop disease detection and agronomic advisory tool for farmers with offline knowledge base, multi-language support (English, Urdu, Sindhi), and scan history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
